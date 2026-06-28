@@ -1,0 +1,2 @@
+TODO: นำไฟล์ resume จริงของตัวเอง มาเปลี่ยนชื่อเป็น resume.pdf แล้ววางไว้ในโฟลเดอร์ public/ นี้
+(แทนที่ไฟล์ resume-placeholder.txt นี้ได้เลย — ปุ่ม "Download Resume" ในหน้า /contact ลิงก์ไปที่ /resume.pdf อยู่แล้ว)
